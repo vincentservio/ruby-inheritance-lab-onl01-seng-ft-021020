@@ -7,6 +7,6 @@ class Student < User
 
 
 def new 
-  @knowledge << new
+  @knowledge 
 end 
 end
