@@ -8,7 +8,9 @@ attr_accessor :knowledge
                "class method class variable instance method instance varaible",
                "programming computers hacking learning terminal",
                "bash Ruby rvm update certs"]
-  def
+  def teach 
+    KNOWLEDGE.sample
+  end
   
   
 end
